@@ -1,5 +1,4 @@
-print('seitaro')
 
-
-def afen(ai):
-afebfenf'eme
+N = 3
+for _ in [1] * N:
+    print(_)
